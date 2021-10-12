@@ -13,16 +13,17 @@ const Skills = () => {
     <Wrapper id="about">
       <SkillsWrapper as={Container}>
         <Thumbnail>
-          <Image src={skillsIllustration} alt="I’m John and I’m a Backend & Devops engineer!" />
+          <Image src={skillsIllustration} alt="I’m Ademola and I’m a Software developer!" />
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
+            My name is Akindotuni Ademola Richard, a self-taught Full Stack JavaScript Developer and a Computer science
+            student. I love to get involved with problem solving by creating solutions to real-world problems using
+            Javascript tools.
           </p>
           <Link href="#contact" passHref>
-            <Button as="a">Hire me</Button>
+            <Button as="a">Get in Touch</Button>
           </Link>
         </Details>
       </SkillsWrapper>

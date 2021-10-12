@@ -5,6 +5,7 @@ export const Wrapper = styled.div`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 1.2rem;
 `;
 
 type BrandProps = {
@@ -15,7 +16,6 @@ export const Brand = styled.a<BrandProps>`
   color: ${({ theme }) => (theme === 'light' ? '#000' : '#fff')};
 
   @media (max-width: 960px) {
-    mix-blend-mode: ${({ theme }) =>
-      theme === 'light' ? 'unset' : 'difference'};
+    mix-blend-mode: ${({ theme }) => (theme === 'light' ? 'unset' : 'difference')};
   }
 `;
