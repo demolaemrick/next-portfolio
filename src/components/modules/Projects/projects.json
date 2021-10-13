@@ -1,51 +1,42 @@
 [
 	{
 		"id": 0,
-		"name": "GM Binder",
-		"description": "a platform for rpg document creation and storage",
-		"link": "https://gmbinder.com/",
-		"imageUrl": "/icons/gmbinder.png",
+		"name": "Burger Builder",
+		"description": "A platform for building and ordering your own burger",
+		"link": "https://react-my-burger-79415.firebaseapp.com/",
+		"imageUrl": "/assets/images/burger-builder.png",
 		"showViewLive": true
 	},
 	{
 			"id": 1,
-			"name": "Genesis Volatility",
-			"description": "crypto options analytics for individual and institutional traders",
-			"link": "https://gvol.io/",
-			"imageUrl": "/icons/gVol.png",
+			"name": "Covid-19 tracker",
+			"description": "A web application that depicts the numbers of corona virus victims across the world via charts.",
+			"link": "https://nifty-clarke-c78a35.netlify.app/",
+			"imageUrl": "/assets/images/covid-19-tracker.png",
 			"showViewLive": true
 	},
 	{
 			"id": 2,
-			"name": "Lendtrade",
-			"description": "real estate loan trading customer outreach wizard",
-			"link": "",
-			"imageUrl": "/icons/lendtrade.png",
-			"showViewLive": false
+			"name": "Tindog",
+			"description": "A website that allows your dog to meet new and interesting dogs nearby",
+			"link": "https://demolaemrick.github.io/Tindog_Bootsrap/",
+			"imageUrl": "/assets/images/bootstrap.png",
+			"showViewLive": true
 	},
 	{
 			"id": 3,
-			"name": "FRST",
-			"description": "enterprise-grade blockchain performance index data",
-			"link": "",
-			"imageUrl": "/icons/FRST.png",
-			"showViewLive": false
+			"name": "Secret App",
+			"description": "A platform where you can share your secrets with everyone.",
+			"link": "https://whispering-cove-73918.herokuapp.com/",
+			"imageUrl": "/assets/images/secrets.png",
+			"showViewLive": true
 	},
 	{
 			"id": 4,
-			"name": "Blocklight",
-			"description": "one-stop hub for e-commerce metrics and insights",
-			"link": "https://blocklight.io/",
-			"imageUrl": "/icons/blocklight.png",
+			"name": "Newsletter",
+			"description": "This is a newsltetter I built for myself by consuming mailchimp api using node.js",
+			"link": "https://whispering-cove-73918.herokuapp.com/",
+			"imageUrl": "/assets/images/newsletter.png",
 			"showViewLive": true
-	},
-	{
-			"id": 5,
-			"name": "Poppins Payroll",
-			"description": "payroll and tax management and reports for in-home staff",
-			"link": "https://poppinspayroll.com/",
-			"imageUrl": "/icons/poppins.png",
-			"showViewLive": true
-	}
-
+	}	
 ]
