@@ -38,7 +38,7 @@ export const Item = styled.div`
 
 export const Content = styled.div`
   padding: 1rem 0;
-  min-height: 160px;
+  min-height: 50px;
 `;
 
 export const Stats = styled.div<{ stars?: boolean }>`
@@ -77,4 +77,9 @@ export const Languages = styled.div`
     color: ${({ theme }) => (theme === 'light' ? '#4d4c4c' : '#fff')};
     margin-left: 0.5rem;
   }
+`;
+export const ViewLive = styled.div`
+  opacity: 0.6;
+  font-size: 14px;
+  color: #ff61a5;
 `;
