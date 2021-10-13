@@ -1,17 +1,17 @@
 import Image from 'next/image';
 import Container from 'components/ui/Container';
 import social from './social.json';
-import TelegramIcon from 'assets/social/telegram.svg';
 import GithubIcon from 'assets/social/github.svg';
 import StackOverflowIcon from 'assets/social/stackoverflow.svg';
 import TwitterIcon from 'assets/social/twitter.svg';
+import InstagramIcon from 'assets/social/instagram.svg';
 import { Wrapper, Flex, Links, Details } from './styles';
 
 const icons = {
-  Telegram: TelegramIcon,
   Github: GithubIcon,
   StackOverflow: StackOverflowIcon,
   Twitter: TwitterIcon,
+  Instagram: InstagramIcon,
 };
 
 const Footer = () => (
@@ -23,11 +23,7 @@ const Footer = () => (
           © All rights are reserved | {new Date().getFullYear()} | Made with{' '}
           <span aria-label="love" role="img">
             💖
-          </span>{' '}
-          by{' '}
-          <a href="https://smakosh.com/?ref=portfolio-dev" rel="noopener noreferrer" target="_blank">
-            Smakosh
-          </a>
+          </span>
         </span>
       </Details>
       <Links>
