@@ -17,7 +17,7 @@ const Button = styled.button<ButtonProps>`
   -ms-user-select: none;
   user-select: none;
   color: #fff;
-  background: #0074d9;
+  background: #ff61a5;
 
   &:focus {
     outline: none;
