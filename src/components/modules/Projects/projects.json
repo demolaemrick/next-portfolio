@@ -38,5 +38,13 @@
 			"link": "https://whispering-cove-73918.herokuapp.com/",
 			"imageUrl": "/assets/images/newsletter.png",
 			"showViewLive": true
+	},	
+	{
+			"id": 5,
+			"name": "Course registration system",
+			"description": "A web application that allows student in my University to register their respective courses for the session",
+			"link": "",
+			"imageUrl": "/assets/images/course-registration.png",
+			"showViewLive": false
 	}	
 ]
