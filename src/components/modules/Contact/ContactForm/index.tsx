@@ -43,7 +43,6 @@ const ContactForm = () => (
         setFieldValue('success', true);
         setTimeout(() => resetForm(), 6000);
       } catch (err) {
-        console.log(err);
         setSubmitting(false);
         setFieldValue('success', false);
         alert('Something went wrong, please try again!');
