@@ -18,9 +18,8 @@ const Skills = () => {
         <Details theme={theme}>
           <h1>More about me</h1>
           <p>
-            My name is Akindotuni Ademola Richard, a self-taught Full Stack JavaScript Developer and a Computer science
-            student. I love to get involved with problem solving by creating solutions to real-world problems using
-            Javascript tools.
+            My name is Akindotuni Ademola Richard, a self-taught Full Stack JavaScript Developer. I love to get involved
+            with problem solving by creating solutions to real-world problems using Javascript tools.
           </p>
           <Link href="#contact" passHref>
             <Button as="a">Get in Touch</Button>
