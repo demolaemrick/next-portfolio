@@ -79,7 +79,6 @@ export const Languages = styled.div`
   }
 `;
 export const ViewLive = styled.div`
-  opacity: 0.6;
   font-size: 14px;
   color: #ff61a5;
 `;
