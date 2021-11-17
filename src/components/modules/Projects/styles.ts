@@ -39,6 +39,7 @@ export const Item = styled.div`
 export const Content = styled.div`
   padding: 1rem 0;
   min-height: 50px;
+  height: 250px;
 `;
 
 export const Stats = styled.div<{ stars?: boolean }>`
