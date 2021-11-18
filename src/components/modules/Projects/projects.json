@@ -9,7 +9,16 @@
 		"showViewLive": true
 	},
 	{
-			"id": 1,
+		"id": 1,
+		"name": "Natours",
+		"description": "A very cool website for exciting tours",
+		"link": "https://demolaemrick.github.io/natours/",
+		"imageUrl": "/assets/images/natours.png",
+		"languages": ["HTML", "CSS", "Sass"],
+		"showViewLive": true
+},
+	{
+			"id": 2,
 			"name": "Covid-19 tracker",
 			"description": "A web application that depicts the numbers of corona virus victims across the world via charts.",
 			"link": "https://nifty-clarke-c78a35.netlify.app/",
@@ -17,22 +26,14 @@
 			"languages": ["React", "Chartjs"],
 			"showViewLive": true
 	},
-	{
-			"id": 2,
-			"name": "Tindog",
-			"description": "A website that allows your dog to meet new and interesting dogs nearby",
-			"link": "https://demolaemrick.github.io/Tindog_Bootsrap/",
-			"imageUrl": "/assets/images/bootstrap.png",
-			"languages": ["HTML", "CSS", "Bootstrap"],
-			"showViewLive": true
-	},
+
 	{
 			"id": 3,
 			"name": "Secret App",
 			"description": "A platform where you can share your secrets with everyone.",
 			"link": "https://whispering-cove-73918.herokuapp.com/",
 			"imageUrl": "/assets/images/secrets.png",
-			"languages": ["HTML", "CSS", "Express", "EJS", "Mongoose"],
+			"languages": ["HTML", "CSS", "Express", "EJS", "MongoDB"],
 			"showViewLive": true
 	},
 	{
@@ -44,13 +45,14 @@
 			"languages": ["HTML","Bootstrap","Express", "Mailchimp"],
 			"showViewLive": true
 	},	
+	
 	{
-			"id": 5,
-			"name": "Course registration system",
-			"description": "A web application that allows student in my University to register their respective courses for the session",
-			"link": "",
-			"imageUrl": "/assets/images/course-registration.png",
-			"languages": ["React", "Express", "Postgres"],
-			"showViewLive": false
-	}	
+		"id": 5,
+		"name": "Tindog",
+		"description": "A website that allows your dog to meet new and interesting dogs nearby",
+		"link": "https://demolaemrick.github.io/Tindog_Bootsrap/",
+		"imageUrl": "/assets/images/bootstrap.png",
+		"languages": ["HTML", "CSS", "Bootstrap"],
+		"showViewLive": true
+	}
 ]
