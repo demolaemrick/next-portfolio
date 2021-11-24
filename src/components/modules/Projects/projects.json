@@ -5,7 +5,7 @@
 		"description": "A platform for building and ordering your own burger",
 		"link": "https://react-my-burger-79415.firebaseapp.com/",
 		"imageUrl": "/assets/images/burger-builder.png",
-		"languages": ["React, Firebase"],
+		"languages": ["React", "Redux", "Firebase"],
 		"showViewLive": true
 	},
 	{
